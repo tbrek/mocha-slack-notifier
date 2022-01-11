@@ -1,0 +1,14 @@
+{
+  "name": "@tbrek/mocha-slack-notifier",
+  "version": "1.0.0",
+  "description": "Parses mocha report and sends report to Slack",
+  "license": "MIT",
+  "repository": "tbrek/mocha-slack-notifier",
+  "main": "index.js",
+  "keywords": [
+    "mocha",
+    "slack",
+    "cypress",
+    "tbrek"
+  ]
+}
